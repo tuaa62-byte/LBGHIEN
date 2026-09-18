@@ -1,0 +1,8 @@
+{
+  "name": "Remix Quản Lý TKB, Lịch Báo Giảng \u0026 KHBD Chuẩn CV 2345",
+  "description": "Hệ thống quản lý Thời khóa biểu, Lịch báo giảng và Kế hoạch bài dạy (KHBD) theo Công văn 2345/BGDĐT, tích hợp Năng lực số, AI, QCN, KNS, GDQPAN và xuất file Word theo font 12, 13, 14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
